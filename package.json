@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI Bot Node App",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soliperso/LIRI-Bot.git"
+  },
+  "author": "Ahmed Chebli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soliperso/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Soliperso/LIRI-Bot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
