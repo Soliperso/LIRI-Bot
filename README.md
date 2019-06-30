@@ -4,25 +4,25 @@ LIRI is a *Language* Interpretation and Recognition Interface.
 ##Challenge
 Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech using the following commands:
 
-*concert-this
-*spotify-this-song
-*movie-this
-*do-what-it-says
+* concert-this
+* spotify-this-song
+* movie-this
+* do-what-it-says
 
 
 ##Technologies used in this project
-*Node.js
+* Node.js
 
 ###APIs:
-*Spotify (https://developer.spotify.com/)
-*OMDB (http://www.omdbapi.com)
-*B*ands In Town (http://www.artists.bandsintown.com/bandsintown-api)
+* Spotify (https://developer.spotify.com/)
+* OMDB (http://www.omdbapi.com)
+* Bands In Town (http://www.artists.bandsintown.com/bandsintown-api)
 
 ###NPM Packages:
-*Node-Spotify-API (https://www.npmjs.com/package/node-spotify-api)
-*Axios (https://www.npmjs.com/package/axios)
-*Moment (https://www.npmjs.com/package/moment)
-*DotEnv (https://www.npmjs.com/package/dotenv)
+* Node-Spotify-API (https://www.npmjs.com/package/node-spotify-api)
+* Axios (https://www.npmjs.com/package/axios)
+* Moment (https://www.npmjs.com/package/moment)
+* DotEnv (https://www.npmjs.com/package/dotenv)
 
 ###What Each Command Does
 
@@ -32,15 +32,15 @@ node liri.js concert-this '<artist/band name here>'
 
 Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
 
-*Name of the venue
-*Venue location
-*Date of the Event (using the format "MM/DD/YYYY")
-*node liri.js spotify-this-song '<song name here>'
+* Name of the venue
+* Venue location
+* Date of the Event (using the format "MM/DD/YYYY")
+* node liri.js spotify-this-song '<song name here>'
 
 Displays the following information about the selected song in your terminal/bash window
-*Artist(s)
-*The song's name
-*A preview link of the song from Spotify
+* Artist(s)
+* The song's name
+* A preview link of the song from Spotify
 
 The album containing the song
 

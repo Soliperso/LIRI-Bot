@@ -74,7 +74,7 @@ function getBands(artist) {
 // GET SONGS FUNCTION
 function getSongs(songName) {
   if (songName === undefined) {
-    songName = 'The Sign';
+    songName = 'Sign of the Times';
   }
     spotify
   .search({ type: 'track', query: songName })
