@@ -63,4 +63,4 @@ This will output the following movie information to your terminal/bash window:
 
   Runs spotify-this-song for "I Want it That Way".
 
-  Link to my portfolio: file:///Users/Soliperso/Desktop/Bootstrap-Portfolio/portfolio.html
+  Link to my portfolio: (https://soliperso.github.io/Bootstrap-Portfolio/)
