@@ -62,3 +62,5 @@ This will output the following movie information to your terminal/bash window:
   node liri.js do-what-it-says
 
   Runs spotify-this-song for "I Want it That Way".
+
+  Link to my portfolio: file:///Users/Soliperso/Desktop/Bootstrap-Portfolio/portfolio.html
