@@ -43,7 +43,7 @@ Displays the following information about the selected song in your terminal/bash
 * A preview link of the song from Spotify
 * The album containing the song
 
-If no song is provided, the program defaults to "The Sign" by Ace of Base.
+If no song is provided, the program defaults to "Sign of the Times"
 
 node liri.js movie-this '<movie name here>'
 This will output the following movie information to your terminal/bash window:
